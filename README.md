@@ -7,6 +7,10 @@
 <img src="https://github.com/xingtianran/MyRepository/blob/master/image/_1231231231232.PNG" width="70%" />
 
 ## 3.导入项目
+- 导入
+```shell
+git@github.com:xingtianran/dwSystem.git
+```
 - 包
 ```shell
 pip install scrapy
